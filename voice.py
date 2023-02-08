@@ -1,6 +1,6 @@
 import requests
 
-def speech(text, api_key="95348d1a4dd7613119c34a3897ecedce", voice_id="EXAVITQu4vr4xnSDxMaL"):
+def speech(text, api_key="35c7eff89fe3ce76b4f272bad9690997", voice_id="EXAVITQu4vr4xnSDxMaL"):
     url = f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
 
     headers = {
@@ -22,4 +22,4 @@ def speech(text, api_key="95348d1a4dd7613119c34a3897ecedce", voice_id="EXAVITQu4
     else:
         print("Request failed with status code:", response.status_code)
 
-speech("Hello, Robera how are you?")
+speech("hello")
