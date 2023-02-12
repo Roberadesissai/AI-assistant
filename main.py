@@ -1,9 +1,18 @@
 
-from audo_files import *
+from speech import *
 import speech_recognition as sr
+from face_reco_video import face
+
 
 
 r = sr.Recognizer()
+
+if not "Unknown" in face:
+    detect_faces()
+else:
+    run_random_function()
+
+check_weather()
 
 while True:
     with sr.Microphone() as source:
