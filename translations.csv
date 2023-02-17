@@ -1,0 +1,85 @@
+ 
+c0f98ad95c0caf1aab7f1b930e3fdd15ac7c4aa4dcadd34d0a29922970249648,Speech Dataset/speech_1.mp3,The weather is scattered clouds and it's 10.17 degrees Celsius.
+85d5ac8656069910c697b6ece5d5637ed1d8881861ccb7d1e29844f8e40dea19,Speech Dataset/speech_2.mp3,It's safe to drive. Please be careful on the road.
+111589b911ec55beb9a2425a6f2b49ccf08d3bd5aad139c6dd5193016726022f,Speech Dataset/speech_3.mp3,The weather is few clouds and it's 9.43 degrees Celsius.
+8276c4a0cd9af98a6f0c4546cbc17170f52fb6a72ed1b8ecdf8a437ebbb8fcb7,Speech Dataset/speech_4.mp3,"Hello, how can I help you today?"
+a241a1e59b0d15e2c8724a9cd3e672efbb2b21cd6966d0fa16a6a98522661bb0,Speech Dataset/speech_5.mp3,Please wait while I process your request...
+7a15a600c886501787f87bc4320a3836f1fe0199564a7ad73c54581548c35520,Speech Dataset/speech_6.mp3,Please wait while I retrieve the time information...
+acd48498ae3ab93447c9be9ddf686848e08b71a5840e0b81d227c4437291d882,Speech Dataset/speech_7.mp3,The current time is 12:41 AM.
+b805abf9fdcc7d0017d39a10b3e904318b7786ab2bec1dad766cafc9b76863e6,Speech Dataset/speech_8.mp3,Please wait while I retrieve the date information...
+1f136408530e66a906b5dba9812e661efdfafaac77b20a8d13bec4531095fea8,Speech Dataset/speech_9.mp3,"Today's date is Thursday, February 16, 2023."
+0edabb3ed7bed394c68d096df0d37db1ef4439baf2f79a6014738893eb1b8181,Speech Dataset/speech_10.mp3,Please wait while I retrieve the weather information...
+92ded7e351117a2a648c675c81bced1235f145758a5737bcdea68ede9ca99cd6,Speech Dataset/speech_11.mp3,The weather is partly cloudy and it's 10 degrees Celsius.
+494c83c031a27cc8dbfcbab44a018ec40d2087a3e9b368390ff45f2ae4872004,Speech Dataset/speech_12.mp3,"I'm sorry, I didn't understand your request. Please try again."
+df1a609ef4b5646191ddb12818c79fe2190d0ec632042a2276981db839cbf1fd,Speech Dataset/speech_13.mp3,"Car safety is a very important topic. When driving, you should always wear your seatbelt and obey traffic laws. You should also maintain your vehicle and keep it in good condition. In addition, you should avoid distractions such as using your phone or eating while driving. Finally, you should always drive defensively and be prepared for unexpected situations on the road."
+9bd74c002c449feeeebcf4b5de2cde764e6650aec752a7edd1bd4c0b1e119ad0,Speech Dataset/speech_14.mp3,"Self-driving cars are a relatively new technology, but they are becoming more and more common on the roads."
+1de0354ba1a5d999b57055172e6f80dcd54abcbe5d13e31ea72be00ae1804779,Speech Dataset/speech_15.mp3,"These cars use a combination of sensors, cameras, and advanced software to navigate the roads and avoid obstacles."
+2704bd570ba54959c522e528c44e884e2b284e7916cebfb6112ec38f7aa5315a,Speech Dataset/speech_16.mp3,One of the biggest advantages of self-driving cars is that they can potentially reduce the number of accidents on the roads.
+32dcd6775bf6891647c2ec5d52e4c477f399fdadc9a068a48108d445a6c7e1ad,Speech Dataset/speech_17.mp3,They can also be more fuel-efficient than traditional cars because they are designed to optimize driving conditions.
+5057e9a6732656d8150ee141c28bc0b6f1f3224f855fc735020d3ad4b8a8b781,Speech Dataset/speech_18.mp3,"However, there are still some concerns about the safety of self-driving cars, and regulations are still being developed to ensure that they meet strict safety standards."
+a4f3751f875e12f6b2c73d4fa4c959c1f4fd5cbb328e9e75569155886cf9892c,Speech Dataset/speech_19.mp3,"Overall, self-driving cars have the potential to revolutionize the way we travel, but we still have a long way to go before they become a common sight on the roads."
+2904e6ebbb9fc2a9a7c60675f195b4e8304f7bf1600a39c942afbfd9ea7e7854,Speech Dataset/speech_20.mp3,You're welcome! Have a nice day!
+205be3f9ac6ab4488e730954fd15ece6d1a3147be0639f328aa0e0aacce2803f,Speech Dataset/speech_21.mp3,The weather is clear sky and it's 8.71 degrees Celsius.
+c1c09838772cff85a7b8148c47684a1cddd218874490b9b740157c1ac88ea8bb,Speech Dataset/speech_22.mp3,The weather is overcast clouds and it's 14.40 degrees Celsius.
+0b757ba1b686537bd25ecd9f298845b3593c9e8d40ea153f2da2638c293d0fa7,Speech Dataset/speech_23.mp3,The current time is 11:14 PM.
+56d55a06edce308807e9a3bee272f98a48c4a3fc62874ad02f9f29161999ad72,Speech Dataset/speech_24.mp3,What can I do for you today?
+84e558a88078bf8763f6ecb1ea5e243f6cd7f9f75d5e07bcdab870f92f81756a,Speech Dataset/speech_25.mp3,How can I make your ride more comfortable?
+a3e9a84f1ff987f66ee30d3a8a4e724bb730acd86e4fb075afed8759c28654e0,Speech Dataset/speech_26.mp3,What's on your mind?
+587892b94e042b727d920ec7037c201eefcb7b3932104d4ed130a5e095b84e71,Speech Dataset/speech_27.mp3,"I'm sorry, an error occurred. Please try again."
+3333708271025e5033c1c647f55d4270412d146b0f60050cc33a9109504d6aee,Speech Dataset/speech_28.mp3,Please wait while I start the car...
+9982c4695f47c48b40e2fcf77ae2c8246e688f60f36dcc11b40e686bed5f9534,Speech Dataset/speech_29.mp3,Please wait while I stop the car...
+92210997f51d6801e72306a45a9497c13e7eee1d42690d4ed390d1cfa1b5cf7d,Speech Dataset/speech_30.mp3,"Hello, this is your AI assistant Linda, how can I help you today?"
+fdf898c73db5043efc157488fe2e118333fb01192a9c4a0b19d155d4d6d51cec,Speech Dataset/speech_31.mp3,"Hello, this is your assistant Linda, how can I help you today?"
+52c6a4f68307d05bfd6460d1dd807e2fa05d65b94fefedb74c63296b3c78642a,Speech Dataset/speech_32.mp3,What do you need?
+abba844c78a83812b224d1ccc2974be39a073523c9a6edca33a015dae60123ab,Speech Dataset/speech_33.mp3,How can I assist you?
+a6f7b8f2d1ae232fd6d3ae944227d2d61f281a12ae4b6b5248f023a12190a17b,Speech Dataset/speech_34.mp3,"Wearing a seat belt is one of the most important things you can do to stay safe while driving. Seat belts can help prevent serious injury or death in the event of an accident. It's important to always wear your seat belt, and to make sure that all passengers in your car are wearing their seat belts as well."
+c162b95eb372f954f83b8b35f50f546121896b36b76bf48bd59c157a47f99a89,Speech Dataset/speech_35.mp3,Maintaining proper tire pressure is an important part of car safety. Overinflated or underinflated
+a6e0614f2fb2728e9f3295b9b0504ffdcff406b1ceff02c05f2157c410d64789,Speech Dataset/speech_36.mp3,Please wait while I unlock the car...
+7fa4f17b6e93b431ff520ac0aba1479f9b981e0272977ed48dfacb2e67a65971,Speech Dataset/speech_37.mp3,Please wait while I lock the car...
+ddbdc70c2834cb8ea7408eba28a6b8ecabb800579a7354869d707206e51019c2,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Robera"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+ddbdc70c2834cb8ea7408eba28a6b8ecabb800579a7354869d707206e51019c2,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Robera"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+ddbdc70c2834cb8ea7408eba28a6b8ecabb800579a7354869d707206e51019c2,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Robera"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+ddbdc70c2834cb8ea7408eba28a6b8ecabb800579a7354869d707206e51019c2,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Robera"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1f6b246a1036f06f9f5f4cdcbf4f983305528d0dfdaeec3661e2663d980ad117,Speech Dataset/speech_1.mp3,Message sent to Robera
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1f6b246a1036f06f9f5f4cdcbf4f983305528d0dfdaeec3661e2663d980ad117,Speech Dataset/speech_1.mp3,Message sent to Robera
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+14f815ff8849ae7580e32ff3fe960b9a78508ac437efb7c314a0a3b07e93f509,Speech Dataset/speech_3.mp3,Message sent to Mati
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+ddbdc70c2834cb8ea7408eba28a6b8ecabb800579a7354869d707206e51019c2,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Robera"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+1b6da406ef66faddf48b65f599dc4578d00989f96a889c4967b4f6b304659e75,Speech Dataset/speech_1.mp3,"I'm sorry, I don't have a phone number for Mati"
+d83a1611223ccbe8ad68b91fc74f5fc82ac5f9be1aacccb383e63fcf55d1ccba,Speech Dataset/speech_2.mp3,Please tell me their phone number.
+d57247acd138af40f1b969c04d8669fd699753dbae2fb9e0c1c5c06507318099,Speech Dataset/speech_43.mp3,"What type of emergency are you experiencing? Say medical, fire, or police."
+9d9a0f0d8cc759712941a90db0ee70c2c31af87201e169083b9d1402598aa24b,Speech Dataset/speech_44.mp3,What is the nature of the medical emergency?
+e30162a328c001f4d41ccb97c4469df7fef9c64043e0d287abdffbf84da904bf,Speech Dataset/speech_45.mp3,Calling emergency services. Please stay on the line.
+3ebe440e73c164c96c86d6b51c2209a11f5bed397871c99a0437b23c69f8e0c2,Speech Dataset/speech_46.mp3,What is the reason for calling the police?
+3daa50050d37e13a2150d2a85ea6e329d36c216bb9dfe46db7d1e97c536cad80,Speech Dataset/speech_47.mp3,What is the location of the fire?
+c034dc31d2ee4ddd790ad8ed22fc7e9920c5e327d4c348905426bc2ba50cd35b,Speech Dataset/speech_1.mp3,The definition of word is: a speech sound or series of speech sounds that symbolizes and communicates a meaning usually without being divisible into smaller units capable of independent use
+669478d4e07aaa41568c33b39f41c814d009a06457bbe7b35f6594b94d34d7b7,Speech Dataset/speech_1.mp3,The definition of identification is: an act of identifying : the state of being identified
