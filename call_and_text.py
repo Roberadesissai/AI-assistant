@@ -17,7 +17,7 @@ def send_text_message(tts, message):
 
     # Send the text message
     message = client.messages.create(
-        to='3808676081',
+        to='12345678910',
         from_='+18775964032',
         body=message
     )
@@ -32,7 +32,7 @@ def emergency_call():
     Makes a call to 911 using the Twilio API.
     """
 
-    emergency_number = "3808676081"
+    emergency_number = "12345678910"
 
     client = Client(account_sid, auth_token)
 
